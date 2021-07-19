@@ -7,10 +7,10 @@
           "url": "https://todoist.com/windows_app"
       }
   },
-  "bin": "windows_app",
+  "bin": "Todoist-1.0.0.exe",
   "shortcuts": [
       [
-          "todoist.exe",
+          "Todoist-1.0.0.exe",
           "Todoist"
       ]
   ]
