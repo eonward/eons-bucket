@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "description": "Todo app",
+  "homepage": "https://todoist.com",
+  "architecture": {
+      "64bit": {
+          "url": "https://todoist.com/windows_app"
+      }
+  },
+  "bin": "todoist.exe",
+  "shortcuts": [
+      [
+          "todoist.exe",
+          "Todoist"
+      ]
+  ]
+}
