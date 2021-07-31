@@ -3,7 +3,7 @@
     "license": "BSD-3-Clause",
     "version": "5.6.0",
     "url": "https://prerelease.keybase.io/keybase_setup_amd64.msi",
-    "hash": "a1b984fcda7cf35845d61b164457206b094bed31fd78b5dfe27ea81fa84cce41",
+    "hash": "dacb6f8e0d6a3d6dc8aa680b1d5519d4c1a47a2bf28d37cf119c9b65eb75fc5e",
     "extract_dir": "Keybase",
     "bin": [
         "keybase.exe",
